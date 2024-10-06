@@ -1,1 +1,3 @@
 sebelum saya melakukan commit, saya lupa mengasih tulisan disini. jadi ini adalah tulisan yang saya masukkan setelah commit pertama
+
+belajar membuat branch baru di git
